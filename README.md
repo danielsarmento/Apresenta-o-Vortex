@@ -13,3 +13,11 @@ https://danielsarmento.github.io/Apresentacao-Vortex/
   
 Página para apresentação de membros da Vortex Capital - Ainda em desenvolvimento. Aprimorando responsividade.
 Detalhe do projeto é fazer o link do whatsapp com o ícone do site, que permite que o cliente seja redirecionado diretamente para o número de whatsapp ao clicar no ícone.
+
+  <p align="left">
+  💌 Envie aqui uma mensagem para mim: ⤵️
+</p>
+
+<p align="left">
+
+ <a href="https://www.linkedin.com/in/danielsarmentodossantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
